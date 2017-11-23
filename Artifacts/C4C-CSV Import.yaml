@@ -1,0 +1,19 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://api.sap.com/shell/discover/contentpackage/SAPHybrisCloudforCustomerIntegrationwithSAPCRM?section=ARTIFACTS "
+name: "C4C-CSV Import"
+artifactTypeId: "Integration Package"
+features: null
+application: null
+source:
+  url: "https://api.sap.com/shell/discover/contentpackage/SAPHybrisCloudforCustomerIntegrationwithSAPCRM?section=ARTIFACTS"
+  type: "Integration Package"
+description:
+  title: null
+  details: "Standard SAP Integration Content to sync to C4C via csv"
+  icon:
+  - "sap-icon://database"
+  background: null
+  moreInfo: null
+  other: null

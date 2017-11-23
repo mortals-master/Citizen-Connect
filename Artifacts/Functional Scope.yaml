@@ -1,0 +1,19 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://sap-my.sharepoint.com/personal/lakshminarayanan_balasubramaniam_sap_com/_layouts/15/guestaccess.aspx?docid=1578edb57628c4c0da3f84d4b7f6613a8&authkey=AakdRqkH9foBvFSarZZvWhU&expiration=2018-01-14T06%3a38%3a41.000Z\_"
+name: "Functional Scope"
+artifactTypeId: "Document"
+features: null
+application: null
+source:
+  url: "https://sap-my.sharepoint.com/personal/lakshminarayanan_balasubramaniam_sap_com/_layouts/15/guestaccess.aspx?docid=1578edb57628c4c0da3f84d4b7f6613a8&authkey=AakdRqkH9foBvFSarZZvWhU&expiration=2018-01-14T06%3a38%3a41.000Z\_"
+  type: "Weblink"
+description:
+  title: null
+  details: "Describes the Overall Scope of the project, the personas &\_use cases"
+  icon:
+  - "sap-icon://document"
+  background: null
+  moreInfo: null
+  other: null

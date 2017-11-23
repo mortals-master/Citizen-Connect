@@ -1,0 +1,19 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://sap-my.sharepoint.com/personal/lakshminarayanan_balasubramaniam_sap_com/_layouts/15/guestaccess.aspx?docid=1a7b554df4ec54a2b8144a4c950834bb8&authkey=AUDEJVYCiXQi8Xo_fc-vfzI&expiration=2018-01-14T06%3a41%3a53.000Z "
+name: "Bill of Materials"
+artifactTypeId: "SpreadSheet"
+features: null
+application: null
+source:
+  url: "https://sap-my.sharepoint.com/personal/lakshminarayanan_balasubramaniam_sap_com/_layouts/15/guestaccess.aspx?docid=1a7b554df4ec54a2b8144a4c950834bb8&authkey=AUDEJVYCiXQi8Xo_fc-vfzI&expiration=2018-01-14T06%3a41%3a53.000Z "
+  type: "Weblink"
+description:
+  title: null
+  details: "List of artefacts & Features to use and the cost"
+  icon:
+  - "sap-icon://excel-attachment"
+  background: null
+  moreInfo: null
+  other: null

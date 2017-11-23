@@ -1,0 +1,19 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://standard.build.me/projects/15f462b7505f614b0ea728ac/home "
+name: "Sample Screens"
+artifactTypeId: "Build"
+features: null
+application: null
+source:
+  url: "https://standard.build.me/projects/15f462b7505f614b0ea728ac/home"
+  type: "BUILD Project"
+description:
+  title: null
+  details: "Few sample screens for feedback"
+  icon:
+  - "sap-icon://request"
+  background: null
+  moreInfo: null
+  other: null

@@ -1,0 +1,19 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://clarkconnect.clarkcountynv.gov"
+name: "Live Site"
+artifactTypeId: "Website"
+features: null
+application: null
+source:
+  url: "https://clarkconnect.clarkcountynv.gov"
+  type: "Weblink"
+description:
+  title: null
+  details: "The real website"
+  icon:
+  - "sap-icon://internet-browser"
+  background: null
+  moreInfo: null
+  other: null

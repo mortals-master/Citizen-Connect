@@ -1,0 +1,20 @@
+---
+configuration:
+- key: "launchUrl"
+  value: ""
+name: "Citizen Connect Portal"
+artifactTypeId: "Portal"
+description:
+  title: null
+  details: "Portal site for citizen conect"
+  icon: null
+  background: null
+  moreInfo: null
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source:
+  url: ""
+  type: null
